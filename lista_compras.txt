@@ -1,6 +1,5 @@
-cerveza
 papas
 gaseosa
 carne
-fideos
-sopa
+agua
+harina
