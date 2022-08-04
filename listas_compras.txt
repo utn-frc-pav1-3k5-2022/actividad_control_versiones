@@ -1,0 +1,6 @@
+cerveza
+papas
+gaseosa
+carne
+fideos
+sopa
