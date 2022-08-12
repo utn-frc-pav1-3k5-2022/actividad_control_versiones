@@ -1,0 +1,9 @@
+pan
+agua
+soda
+arroz
+fideos
+tomate
+lechuga
+papa
+
