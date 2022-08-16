@@ -1,4 +1,8 @@
-pan
-agua
-queso
-jamon
+cartuchera
+lapiz
+lapicera
+goma
+sacapuntas
+carpeta
+hojas
+apunte
