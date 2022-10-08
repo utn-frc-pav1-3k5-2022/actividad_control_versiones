@@ -2,3 +2,5 @@ pan
 agua
 queso
 jamon
+harina
+jugo
