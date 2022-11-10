@@ -1,0 +1,6 @@
+pan
+agua
+queso
+jamon
+chocolates 
+gaseosa 
